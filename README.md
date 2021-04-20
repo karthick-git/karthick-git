@@ -22,6 +22,14 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 ---
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-git&hide=java,html,css&theme=onedark)](https://github.com/karthick-git/github-readme-stats)
+
+[![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthick-git&theme=onedark)](https://github.com/karthick-git/github-readme-stats)
+
+---
+
 <!--
 **karthick-git/karthick-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
