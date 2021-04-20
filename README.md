@@ -14,7 +14,7 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 ---
 
-- 🔭 I’m currently working on improving the quality of software from API and UI layers with the help of Automation with Java, Selenium & Cucumber.
+- 🔭 I’m currently working on improving the quality of software from API and UI layers with the help of Automation with Java, Python, Selenium & Cucumber.
 
 ---
 
@@ -24,7 +24,7 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthick-git&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthickash&hide_title=true&hide_border=true&langs_count=5)
 
 ---
 
@@ -41,8 +41,6 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
