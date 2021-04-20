@@ -10,7 +10,15 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 🧰 Toolbox
 
-<img src=https://cdn.worldvectorlogo.com/logos/java.svg alt="Java Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/python-4.svg alt="Python Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/git.svg alt="Git Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/selenium-logo.svg alt="Selenium Logo" width="50" height="50"/> <img src=https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png alt="Postman Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/html5.svg alt="HTML Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/azure-1.svg alt="Azure Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/aws-2.svg alt="AWS Logo" width="50" height="50"/> <img src=https://www.flaticon.com/svg/vstatic/svg/337/337953.svg alt="SQL Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg alt="IntelliJ Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg alt="VSCode Logo" width="50" height="50"/> 
+<img src=https://cdn.worldvectorlogo.com/logos/java.svg alt="Java Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/python-4.svg alt="Python Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/git-icon.svg alt="Git Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/selenium-logo.svg alt="Selenium Logo" width="50" height="50"/> <img src=https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png alt="Postman Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/html5.svg alt="HTML Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/azure-1.svg alt="Azure Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/aws-2.svg alt="AWS Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/sqlite.svg alt="SQLite Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg alt="IntelliJ Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg alt="VSCode Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/concourse-1.svg alt="Concourse Logo" width="50" height="50"/> <img src=https://cdn.worldvectorlogo.com/logos/cucumber.svg alt="Cucumber Logo" width="50" height="50"/> 
+
+---
+
+- 🔭 I’m currently working on improving the quality of the software from API and UI layers with the help of Automation with Java, Selenium & Cucumber.
+
+---
+
+- 🌱 I’m currently learning Python and AWS Services.
 
 ---
 
