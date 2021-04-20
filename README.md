@@ -14,11 +14,17 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 ---
 
-- 🔭 I’m currently working on improving the quality of the software from API and UI layers with the help of Automation with Java, Selenium & Cucumber.
+- 🔭 I’m currently working on improving the quality of software from API and UI layers with the help of Automation with Java, Selenium & Cucumber.
 
 ---
 
-- 🌱 I’m currently learning Python and AWS Services.
+- 🌱 I’m currently learning to help the development teams deliver robust and high quality software systems. Also learning Python as a secondary language and AWS Services to understand the benefits of cloud.
+
+---
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthick-git&hide_title=true&hide_border=true&langs_count=5)
 
 ---
 
