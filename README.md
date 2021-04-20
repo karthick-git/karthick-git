@@ -24,9 +24,9 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-git&hide=java,html,css&theme=highcontrast)](https://github.com/karthick-git/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-git&hide=java,html,css&theme=radical)](https://github.com/karthick-git/github-readme-stats)
 
-[![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthick-git&theme=highcontrast)](https://github.com/karthick-git/github-readme-stats)
+[![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthick-git&theme=radical)](https://github.com/karthick-git/github-readme-stats)
 
 ---
 
