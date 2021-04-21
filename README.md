@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/angrybuddha24?style=social) ![GitHub followers](https://img.shields.io/github/followers/karthick-git?style=social)
 
-A Software Engineer specializing in Software Testing and Automation. Professional experience in the technologies listed in the **toolbox** below.
+A Software Engineer specializing in Software Testing and Automation. Professional experience in the technologies and tools listed in the **toolbox** below.
 
 I create tech content, mostly about Software Testing and Java, but I also create content on Automating stuff other than test cases. I'll advise you to follow me on GitHub and Twitter where most of my works are shared. 
 
@@ -24,7 +24,7 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthickash&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthickash&langs_count=5)
 
 ---
 
@@ -38,7 +38,7 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 <!--
 **karthick-git/karthick-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+hide_title=true&hide_border=true&
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
