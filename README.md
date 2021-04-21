@@ -22,12 +22,6 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 ---
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthickash&langs_count=5)
-
----
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-git&hide=java,html,css&theme=radical)](https://github.com/karthick-git/github-readme-stats)
@@ -38,7 +32,7 @@ I create tech content, mostly about Software Testing and Java, but I also create
 
 <!--
 **karthick-git/karthick-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-hide_title=true&hide_border=true&
+
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
@@ -47,4 +41,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karthickash&hide_title=true&hide_border=true&langs_count=5)
 -->
